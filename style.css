@@ -157,3 +157,11 @@ h3 {
   margin-top: 10px;
   font-size: 24px;
 }
+
+input {
+  height:30px;
+  text-align: left;
+  background-color: #434c5e;
+  border: none;
+  color: white;
+}
