@@ -35,6 +35,7 @@ const reviews = [
     title: "wah wah wah bad",
     review: "Gam Sight is very hahrd 2 see :eyes: mak beder!!1!1!!!",
   },
+  {"name": "skibidi44","title":"from beta to sigma","review":"me before website: duhh duhh me after website: *says the entire dictionary and several fun facts from memory* :sigma: :Moyai: :wineglass:"},
 ];
 function createNewReview(name, title, text) {
   console.log(`{"name": "${name}","title":"${title}","review":"${text}"},`);
