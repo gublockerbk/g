@@ -177,3 +177,30 @@ input {
     border: none;
     height: 32px;
 }
+
+.quickcl {
+    margin-top:20px;
+    background-color: #434c5e;
+    height: 200px;
+    width: 360px;
+    border-radius: 5px;
+}
+
+.divcenter {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    width: 70%;
+    height: 200px;
+    margin-left: 15%;
+}
+
+.quickcl h1 {
+    font-size: 24;
+}
+
+
+.quickcl p {
+    font-size: 20;
+}

@@ -43,7 +43,8 @@ var splashes=[
     "https://www.reddit.com/r/teenagers/comments/1alkq3x/boys_are_social_experiments/",
     "The king of no updates (right next to karlson)",
     "Might make good updates sometimes.",
-    "Me when I forget this message exists."
+    "Me when I forget this message exists.",
+    "Can't even tell what was added anymore."
 ]
 
 function getRandomSplash() {
