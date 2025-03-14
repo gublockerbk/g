@@ -14,13 +14,12 @@ var splashes=[
     "New Tab",
     "I know you have missing assignments.",
     "For when you're bored in class.",
-    "English grade done by ChatGPT.",
+    "English grade done by ChatGPT and DeepSeek.",
     "Lawsuits sold seperately.",
     "c.ai coming soon!",
     "someone should fix page not found.",
     "Will work for vbucks.",
-    "Best on the market.",
-    "Chromebooks here are worth $20.",
+    "Chromebooks are worth $20.",
     "JERRY!!",
     "Better play with fullscreen mode",
     "The teachers dont know... Or do they? *vsauce theme*",
@@ -28,7 +27,6 @@ var splashes=[
     "GET *FREE* ROBUX WITH MY LINK IN THE DESCRIPTION 🤑🤑💰",
     "sigma male 🗿🍷",
     "1.4 GPA activities.",
-    "Josh Hutcherson",
     "definitely not a scam.",
     "∞ games", 
     "😤😤😤🧐😔😳🫣🤔🫡💀💀💀🤜👀🫧🥛",
@@ -44,7 +42,10 @@ var splashes=[
     "The king of no updates (right next to karlson)",
     "Might make good updates sometimes.",
     "Me when I forget this message exists.",
-    "Can't even tell what was added anymore."
+    "Can't even tell what was added anymore.",
+    "GTA 6 before game unblocker update",
+    "Half Life 3 before game unblocker update",
+    "'I did all my work i swear!!' - 1.2934 GPA."
 ]
 
 function getRandomSplash() {
