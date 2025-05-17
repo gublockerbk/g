@@ -61,6 +61,11 @@ const reviews = [
     title: "still not a dev",
     review: "This website is peak everyone",
   },
+  {
+    name: "inventor",
+    title: "i do NO work",
+    review: "thanks for this amazing website i havent done work all year i got a 0.02 GPA."
+  }
 ];
 function createNewReview(name, title, text) {
   console.log(`{"name": "${name}","title":"${title}","review":"${text}"},`);

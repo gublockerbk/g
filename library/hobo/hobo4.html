@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>New Tab</title>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+          <script>
+            function toggleFullscreen() {
+              var iframe = document.getElementById("game-iframe");
+      
+              if (!document.fullscreenElement) {
+                iframe.requestFullscreen().catch((err) => {
+                  console.log(
+                    `Error attempting to enable full-screen mode: ${err.message} (${err.name})`
+                  );
+                });
+              } else {
+                if (document.exitFullscreen) {
+                  document.exitFullscreen();
+                }
+              }
+            }
+          </script>
+        </head>
+        <body>
+        <script src="random.js"></script>
+        <embed
+        id="game-iframe"
+        src="hobo4.swf"
+        width="960px"
+        height="720px"
+        frameborder="0" />
+  </body>
+</html>
