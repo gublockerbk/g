@@ -1,10 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Varela+Round&display=swap");
 
 body {
-    background-color: #3b4252;
+    background-image: linear-gradient(#2c2c2c,#181818);
     justify-content: center;
     margin: 0px;
     padding: 0px;
+    height: 100vh;
 }
 
 a:link {
@@ -48,13 +49,13 @@ a:active {
 }
 
 .spacer {
-    color: #3b4252;
+    color: #2c2c2c;
     margin: 0.25rem;
     font-size: 14px;
 }
 
 .half-spacer {
-    color: #3b4252;
+    color: #2c2c2c;
     margin: 0rem;
     font-size: 7px;
 }
@@ -144,7 +145,7 @@ h3 {
 }
 
 .review {
-    background-color: #434c5e;
+    background-color: #2b2b2b;
     height: 200px;
     width: 360px;
     border-radius: 5px;
@@ -173,7 +174,7 @@ h3 {
 input {
     text-align: left;
     color: white;
-    background-color: #434c5e;
+    background-color: #3b3b3b;
     border: none;
     height: 32px;
 }

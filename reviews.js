@@ -10,16 +10,6 @@ const reviews = [
     review: "Wow what a fun site (i am not a developer)",
   },
   {
-    name: "kids in a basement",
-    title: "help",
-    review: "help im stuck in the developers basement :(",
-  },
-  {
-    name: "user2828172733618292",
-    title: "ouchy",
-    review: "this website gave me testicular torsion",
-  },
-  {
     name: "c.ai addict",
     title: "ADD C.AI",
     review: "PLEASE I BEG OF YOU ADD CHARACTER AI",
@@ -36,11 +26,6 @@ const reviews = [
     review: "Gam Sight is very hahrd 2 see :eyes: mak beder!!1!1!!!",
   },
   {"name": "skibidi44","title":"from beta to sigma","review":"me before website: duhh duhh me after website: *says the entire dictionary and several fun facts from memory* :sigma: :Moyai: :wineglass:"},
-  {
-    name: "sigma",
-    title: "wow peak",
-    review: "Diddy oils up here",
-  },
   {
     name: "🤓",
     title: "wah wah no science :(",
